@@ -11,7 +11,7 @@ No entanto, gerentes possuem uma regra particular. Os gerentes além do salário
 
 - Júnior: R$ 1.000,00
 - Pleno: R$ 2.000,00
-- Sênior: RS 3.00000
+- Sênior: RS 3.000,00
 
 para mais detalhes, siga as seguinte instruções detalhadamente:
 
